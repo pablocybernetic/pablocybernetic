@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablocybernetic
 - 👀 I’m interested in ... website build jobs specialized in php js kotlin
-- 🌱 I’m currently learning ...php and kotlin
+- 🌱 I’m currently learning ...php and flutter
 - 💞️ I’m looking to collaborate on ... android 
 - 📫 How to reach me ... whatsapp +254705374455
 
